@@ -1,2 +1,3 @@
 # react-emoji-interpreter
-A simple react web app that idetifies emoji
+A simple react web app that identifies emoji
+Basic react applications that uses useState hook
